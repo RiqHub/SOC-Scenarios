@@ -1,4 +1,4 @@
-# Impossible Travel Detection 
+# 🗺️Impossible Travel Detection🗺️
 
 ![image](https://github.com/user-attachments/assets/bcfb3c35-2859-4f29-ab20-ef052c381477)
 
