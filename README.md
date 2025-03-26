@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/bcfb3c35-2859-4f29-ab20-ef052c381477)
 
-**Alert Description:** 
+## Alert Description:
 An alert was triggered due to logins from the same account in different states within a short timeframe. We will investigate to determine whether this is a true positive or a false alarm. Let’s begin.
 
 **Query used to trigger alert:**
@@ -24,7 +24,7 @@ SigninLogs
 
 <br>
 
-**Investigative Query:**
+## Investigative Query:
 Using the query below we dived into each login's specific city, state to see if the travel times between each login were plausable.
 
 <br> 
